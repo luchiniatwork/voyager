@@ -1,6 +1,13 @@
 # Voyager
 
-Original [paper](https://arxiv.org/pdf/2305.16291.pdf).
+Papers:
+
+- Sep 2023 [The Rise and Potential of Large Language Model Based
+  Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+- Aug 2023 [Generative Agents: Interactive Simulacra of Human
+  Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+- May 2023 [An Open-Ended Embodied Agent with Large Language
+  Models](https://arxiv.org/pdf/2305.16291.pdf).
 
 ## Sequence Diagram
 
