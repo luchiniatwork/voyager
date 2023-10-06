@@ -2,6 +2,9 @@
 
 Papers:
 
+- Sep 2023 [Text2Reward: Automated Dense Reward Function Generation
+  for Reinforcement
+  Learning](https://browse.arxiv.org/pdf/2309.11489.pdf)
 - Sep 2023 [The Rise and Potential of Large Language Model Based
   Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
 - Aug 2023 [Generative Agents: Interactive Simulacra of Human
